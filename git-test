@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <div class="logo">
+            <a href="#"><h2><span class="color">Flavor</span>Fusion</h2></a>
+        </div>
+        <ul class="ul">
+            <li><a href="index.html" >Home</a></li>
+            <li><a href="special.html" >Special</a></li>
+            <li><a href="#" >Chef</a></li>
+            <li><a href="#" >Clients</a></li>
+            <li><a href="#" >contact us</a></li>
+        </ul>
+        <div class="serch">
+            <input type="text" placeholder="search"  class="search">
+            <button id="search" onclick="search()">Search</button>
+        </div>
+    </div>
+    <div class="section1">
+        <div class="speach">
+            <h1>Meet, Eat &</h1>
+            <h1>Enjoy The </h1>
+            <h1 class="h1">True Taste</h1>
+            <p class="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur error iure amet voluptas. Odit cum dolores asperiores neque. Exercitationem minima accusamus vero repellat magnam nulla, illum laborum voluptates eligendi distinctio?</p>
+            <button>Order Now!</button>
+        </div>
+        <div class="image">
+            <img class="img" src="téléchargement.jpg" alt="samurai">
+        </div>
+    </div>
+    <div class="section2">
+        <div class="section12">
+            <h1 class="h11">Our Special Dish</h1>
+            <p class="p2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas perferendis voluptatem accusamus, minima excepturi exercitationem nam! Aliquid omnis quo hic minima!</p>
+        </div>
+        <div class="container_cart">
+            <div class="cart">
+                <img class="img1" src="téléchargement.jpg" alt="samurai">
+                <h2 class="h2">Hyderabadi Biryani</h2>
+                <p class="p1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernaturLorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernaturLorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernatur
+                </p>
+            </div>
+            <div class="cart">
+                <img class="img1" src="téléchargement.jpg" alt="samurai">
+                <h2 class="h2">Hyderabadi Biryani</h2>
+                <p class="p1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernaturLorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernaturLorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernatur
+                </p>
+            </div>
+            <div class="cart">
+                <img class="img1" src="téléchargement.jpg" alt="samurai">
+                <h2 class="h2">Hyderabadi Biryani</h2>
+                <p class="p1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernaturLorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernaturLorem ipsum dolor, sit amet consectetur adipisicing elit. Ut dolore repellat aspernatur
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <div>
+            <h1>Flavor Fusion</h1>
+            <ul class="ul1">
+                    <li><p class="p22">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt temporibus perspiciatis cum nam,</p></li>
+            </ul>
+        </div>
+        <div class="d">
+            <h2>Product</h2>
+            <ul class="ul1">
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">Specials</a></li>
+                <li><a href="#">Meal Deals</a></li>
+                <li><a href="#">Catering Options</a></li>
+            </ul>
+        </div>
+        <div class="d">
+            <h2>Product</h2>
+            <ul class="ul1">
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">Nutrition Information</a></li>
+                <li><a href="#">Aliergen Information</a></li>
+            </ul>
+        </div>
+        <div class="d">
+            <h2>Product</h2>
+            <ul class="ul1">
+                <li><a href="#">Our Story</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Privecy Policy</a></li>
+            </ul>
+        </div>
+    </div>
+</body>
+<script src="index.js"></script>
+</html>
